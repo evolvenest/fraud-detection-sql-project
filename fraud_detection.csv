@@ -1,0 +1,11 @@
+﻿id,name,type_of_attack,amount_loss,place
+1,Rahul,Malware Attack,75000,Delhi
+2,Anita,Phishing Attack,15000,Mumbai
+3,Suresh,Denial-of-Service (DDoS) Attack,30000,Bengaluru
+4,Priya,Man-in-the-Middle Attack,45000,Chennai
+5,Aman,SQL Injection Attack,90000,Noida
+6,Neha,Phishing Attack,12000,Pune
+7,Karan,Malware Attack,60000,Mumbai
+8,Ritu,Man-in-the-Middle Attack,25000,Jaipur
+9,Arjun,Denial-of-Service (DDoS) Attack,40000,Hyderabad
+10,Pooja,SQL Injection Attack,55000,Kolkata
